@@ -26,7 +26,7 @@ This is a **Java Swing-based particle system animation** that simulates particle
 
 ## Author
 **GodXero**  
-[GitHub](https://github.com/GodXero33) | [Website](https://www.godxero.dev.net)
+[GitHub](https://github.com/GodXero33)
 
 ---
 ✨ *Feel free to fork, modify, and experiment!* 🚀
