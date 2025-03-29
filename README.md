@@ -15,7 +15,7 @@ This is a **Java Swing-based particle system animation** that simulates particle
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/your-username/ParticleSystemAnimation-JavaSwing.git](https://github.com/GodXero33/ParticleSystemAnimation-JavaSwing.git)
+   git clone https://github.com/your-username/ParticleSystemAnimation-JavaSwing.git
    ```
 2. Open the project in your favorite Java IDE (IntelliJ IDEA, Eclipse, etc.).
 3. Compile and run the project.
