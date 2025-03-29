@@ -28,7 +28,7 @@ public class Drawer {
 		for (int a = 0; a < 100; a++) this.addNewParticle((Math.random() * width), (Math.random() * height));
 	}
 
-	private void addNewParticle (double x, double y) {
+	public void addNewParticle (double x, double y) {
 		this.particles.add(new Particle(
 			new Vector(x, y),
 			new Vector((Math.random() * 2 - 1), (Math.random() * 2 - 1)),
