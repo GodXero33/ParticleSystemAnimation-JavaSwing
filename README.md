@@ -24,9 +24,6 @@ This is a **Java Swing-based particle system animation** that simulates particle
 - The animation starts automatically when you run the program.
 - Click on the panel to add new particles dynamically.
 
-## License
-This project is licensed under the MIT License.
-
 ## Author
 **GodXero**  
 [GitHub](https://github.com/GodXero33) | [Website](https://www.godxero.dev.net)
