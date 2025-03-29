@@ -13,6 +13,7 @@ public class Main {
 		frame.setLocationRelativeTo(null);
 		frame.setVisible(true);
 
+		canvas.init();
 		new Animator(canvas).start();
 	}
 }
